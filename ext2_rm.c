@@ -8,7 +8,7 @@
 unsigned char *disk;
 
 void usage(char *program) {
-	fprintf(stderr, "usage: %s [-s] <image file name> <path to link>\n", program);
+	fprintf(stderr, "usage: %s <image file name> <path>\n", program);
 }
 
 int main(int argc, char **argv) {
