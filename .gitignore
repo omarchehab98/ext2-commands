@@ -1,0 +1,9 @@
+.vscode
+*.o
+ext2_dump
+ext2_mkdir
+ext2_cp
+ext2_ln
+ext2_rm
+ext2_restore
+ext2_checker
